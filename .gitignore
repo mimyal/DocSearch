@@ -13,7 +13,6 @@ __pycache__/
 .DS_Store
 
 # Scrap files
-doc_search.py
 *test_s3_doc_search.py
 s3_doc_search.py
 local_doc_search.py
